@@ -1,5 +1,5 @@
 # BookListScannerWeb
-Simple script to Beautifier the a list file in your web
+Simple script to beautify a list file on your web
  
  ![Alt Text](https://github.com/Alexanderh1988/BookListScannerWeb/blob/master/viewshot.png?raw=true)
 
